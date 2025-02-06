@@ -8,8 +8,13 @@ def summ():
     print( 3 + 5)
 
 
+def summ1():
+    print(3 + 5)
+
+
 if __name__ == '__main__':
     print_hi('PyCharm')
     summ()
+    summ1()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
