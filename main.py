@@ -12,9 +12,14 @@ def summ1():
     print(3 + 5)
 
 
+def mul(n, m):
+    return n * m
+
+
 if __name__ == '__main__':
     print_hi('PyCharm')
     summ()
     summ1()
+    print(mul(5, 5))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
